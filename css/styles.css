@@ -14,14 +14,14 @@ input {
     font-size: 15px;
 	box-sizing: border-box;
 	position: absolute;
-	top: 40%;
-	left: 50%;
+	top: 30%;
+	left: 10%;
 	color: white;
 	transform: translate(-50%, -50%);
 	width: 400px; 
 	padding: 80px;
 	background: rgba(206, 42, 42, 0.7);
-	box-shadow: 0 4px 8px rgba(202, 112, 112, 0.5);
+	box-shadow: 0 2px 6px rgba(202, 112, 112, 0.5);
 	border-radius: 10px;
 }
 

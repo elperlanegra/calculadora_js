@@ -23,4 +23,7 @@ function calculator() {
   if (operation === "mult") {
     document.getElementById("resultado").value = num1 * num2;
   }
+  if (operation === "potencia") {
+    document.getElementById("resultado").value = Math.pow(num1, num2);
+  }
 }
