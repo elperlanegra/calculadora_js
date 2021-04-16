@@ -33,10 +33,9 @@ input {
 
 .resultado_final {
 	margin: 10px;
-    height: 25px;
+    height: 35px;
     border: 4px;
     width: 85%;
-
 }
 
 .boton_imprimir{
