@@ -12,7 +12,6 @@ input {
 
 .ingreso_numeros {
     font-size: 15px;
-    font-weight: bold;
 	box-sizing: border-box;
 	position: absolute;
 	top: 40%;
@@ -22,14 +21,14 @@ input {
 	width: 400px; 
 	padding: 80px;
 	background: rgba(206, 42, 42, 0.7);
-	box-shadow: 0 5px 10px rgba(202, 112, 112, 0.5);
+	box-shadow: 0 4px 8px rgba(202, 112, 112, 0.5);
 	border-radius: 10px;
 }
 
 .select  {
 	padding: 5px;
     width: 50%;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .resultado_final {
@@ -42,13 +41,13 @@ input {
 
 .boton_imprimir{
     text-decoration: none;
-    padding: 10px;
+    padding: 8px;
     font-weight: 600;
     font-size: 20px;
     color: #ffffff;
     background-color: #1883ba;
     border-radius: 4px;
-    border: 2px solid #0016b0;
+    border: 1px solid #0016b0;
     width: 100%;
   }
 
