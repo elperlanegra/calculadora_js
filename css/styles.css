@@ -14,8 +14,8 @@ input {
     font-size: 15px;
 	box-sizing: border-box;
 	position: absolute;
-	top: 30%;
-	left: 10%;
+	top: 50%;
+	left: 50%;
 	color: white;
 	transform: translate(-50%, -50%);
 	width: 400px; 
