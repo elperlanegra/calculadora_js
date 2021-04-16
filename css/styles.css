@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	padding: 0;	
+}
+
+input {
+	border-radius: 3px;
+	padding-left: 10px;
+    height: 20px;
+    font-size: 15px;
+}
+
+.ingreso_numeros {
+    font-size: 15px;
+    font-weight: bold;
+	box-sizing: border-box;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	color: white;
+	transform: translate(-50%, -50%);
+	width: 400px; 
+	padding: 80px;
+	background: rgba(206, 42, 42, 0.7);
+	box-shadow: 0 5px 10px rgba(202, 112, 112, 0.5);
+	border-radius: 10px;
+}
+
+.select  {
+	padding: 5px;
+    width: 50%;
+	margin-bottom: 50px;
+}
+
+.resultado_final {
+	margin: 10px;
+    height: 25px;
+    border: 4px;
+    width: 85%;
+
+}
+
+.boton_imprimir{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 4px;
+    border: 2px solid #0016b0;
+    width: 100%;
+  }
+
+  .boton_imprimir:hover {
+    color: #1883ba;
+    background-color: #ffffff;
+  }
